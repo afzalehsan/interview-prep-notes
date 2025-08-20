@@ -5,6 +5,7 @@ A collection of my interview preparation notes, built over years of professional
 ---
 
 ## 📂 Categories
+- [General Questions](./General_Questions) 
 - [SQL](./SQL)  
 - [Power BI](./PowerBI)
 - [Tableau](./Tableau) 
